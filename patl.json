@@ -1,0 +1,65 @@
+{
+    ".buckconfig": null,
+    ".eslintrc.js": null,
+    ".flowconfig": null,
+    ".gitattributes": null,
+    ".gitignore": null,
+    ".patlignore": null,
+    ".prettierrc.js": null,
+    ".watchmanconfig": null,
+    "_editorconfig": null,
+    "app.json": null,
+    "babel.config.js": null,
+    "index.js": null,
+    "metro.config.js": null,
+    "package-lock.json": null,
+    "package.json": null,
+    "src": {
+        "App.js": null,
+        "assets": {
+            "Fonts": {
+                "AntDesign.ttf": null,
+                "Entypo.ttf": null,
+                "EvilIcons.ttf": null,
+                "Feather.ttf": null,
+                "FontAwesome.ttf": null,
+                "FontAwesome5_Brands.ttf": null,
+                "FontAwesome5_Regular.ttf": null,
+                "FontAwesome5_Solid.ttf": null,
+                "Fontisto.ttf": null,
+                "Foundation.ttf": null,
+                "Ionicons.ttf": null,
+                "MaterialCommunityIcons.ttf": null,
+                "MaterialIcons.ttf": null,
+                "Octicons.ttf": null,
+                "SimpleLineIcons.ttf": null,
+                "Zocial.ttf": null
+            },
+            "SVG": {
+                "position.svg": null
+            }
+        },
+        "components": {
+            "atoms": {
+                "Chip.js": null
+            }
+        },
+        "data.js": null,
+        "db.js": null,
+        "screens": {
+            "CartScreen.js": null,
+            "HomeScreen.js": null,
+            "SplashScreen.js": null
+        },
+        "stacks": {
+            "DashboardStack.js": null
+        },
+        "styles": {
+            "colors.js": null,
+            "index.js": null,
+            "theme.js": null,
+            "typography.js": null
+        }
+    },
+    "yarn.lock": null
+}

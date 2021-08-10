@@ -1,0 +1,8 @@
+/.git
+/.vscode
+/.gradle
+/node_modules
+
+/__tests__
+/android
+/ios
